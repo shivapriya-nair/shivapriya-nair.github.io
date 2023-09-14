@@ -1,14 +1,29 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+---
+title: "Is GIS a Science?"
+excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - GIS
+  - Science
+
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+Science is known to be a field of study that prioritises objective methodology and empirical data. The scientific method involves reducing human bias by carefully selecting methods for different studies and creating controlled environments to observe how changing one factor can affect another. Part of what makes a scientific study strong is that the methods and results are replicable. Multiple trials that lead to the same or similar conclusions further prove the result, and a lack of reproducability would imply that the results are unreliable. It also suggests that there could have been something wrong with the research process or method in itself. 
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+As a student, I have only used QGIS as a tool to analyse data that has already been collected and make meaning out of it. In one sense, it is easier to claim that GIS is not a science in itself, because it only manipulates and visualizes data that has already been collected through various other scientific methods. However, the potential growth of GIS is massive, and when employed critically, GIS could be part of the scientific process in itself. 
+
+Here is an image: ![github logo](/assets/images/github-mark-white.png)
+
+
+
+
+|table column 1 | table column 2 |
+|:--------------| ------|
+|centered| not centered |
+|more content to show centering |
+
+
+|        |Reject | Accept     |
+|:---------------: ------ |
