@@ -3,9 +3,9 @@
 title: "Is GIS a Science?"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
-  - - GIS
+  - GIS
   - Science
 ---
 
