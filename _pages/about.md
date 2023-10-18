@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Hello world, hope you're listening. 
+Senior Environmental Studies - Geography Joint Major, Global Health Minor at Middlebury College
