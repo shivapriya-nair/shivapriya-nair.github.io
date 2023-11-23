@@ -71,7 +71,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin" 
+      icon: "fab fa-brands fa-linkedin" 
       url: "https://www.linkedin.com/in/shivapriya-s-a6479b139/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
